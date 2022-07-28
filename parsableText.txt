@@ -1,0 +1,8 @@
+Recomendamos trabajar en el repositorio manteniendo la prolijidad y las buenas prácticas
+de git. Una estrategia recomendable es realizar un branch por cada ejercicio e ir integrando
+a la rama principal a medida que los scripts que resuelven cada ejercicio estén listos.
+En ese mismo repositorio debe estar la documentación suficiente para comprender cómo
+desplegar el contenedor y ejecutar la aplicación, con algunas capturas de ejecución o lo que
+consideren logre explicitar el funcionamiento y visualizar resultados. Puede ser utilizando un
+archivo README.md el cual estará presente cuando se accede al repositorio en gitlab o
+github.
