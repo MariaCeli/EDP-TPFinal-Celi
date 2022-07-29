@@ -8,7 +8,7 @@ while read line; do
     do
         LENGTH=${#word}
         COUNTER=$((COUNTER+1))
-        AVERAGE=$((AVERAGE+LENGHT))
+        AVERAGE=$((AVERAGE+LENGTH))
         if [ $LENGTH -gt $LONGESTWORD ]
             then LONGESTWORD=$LENGTH
         fi
