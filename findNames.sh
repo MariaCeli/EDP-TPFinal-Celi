@@ -9,7 +9,7 @@ while read line; do
         PROPERNAMES+=($THISNAME)
         fi
     done
-done <"parsableText.txt"
+done <"EDP-TPFinal-Celi/parsableText.txt"
 
 echo "-------------------------------------------------"
 echo "NOMBRES PROPIOS"
