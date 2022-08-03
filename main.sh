@@ -1,4 +1,5 @@
-
+while true 
+do
 PS3="Elige tu opción: "
 opciones=("Indicador estadístico de longitud de palabras" 
           "Indicador estadístico de uso de palabras" 
@@ -31,4 +32,5 @@ do
         ;;
         *) echo "Opcion no válida."
     esac
+done
 done
