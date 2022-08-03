@@ -1,3 +1,3 @@
 echo "Number of empty lines: "
     
-grep -cvP '\S' "parsableText.txt"
+grep -cvP '\S' "EDP-TPFinal-Celi/parsableText.txt"
