@@ -18,7 +18,7 @@ while read line; do
             then SHORTESTWORD=$LENGTH
         fi
     done
-done <"parsableText.txt"
+done <"EDP-TPFinal-Celi/parsableText.txt"
 echo "Average word length = '$((AVERAGE/COUNTER))'" 
 echo "Longest word length = '$LONGESTWORD'"
 echo "Shortest word length = '$SHORTESTWORD'"
