@@ -16,7 +16,7 @@ while read line; do
                 fi
         fi
     done
-done <"parsableText.txt"
+done <"EDP-TPFinal-Celi/parsableText.txt"
 
 for k in "${!WORDS[@]}"
 do
