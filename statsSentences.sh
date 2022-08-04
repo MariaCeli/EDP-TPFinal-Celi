@@ -32,7 +32,7 @@ while read line; do
         fi
         
     done
-done <"parsableText.txt"
+done <"EDP-TPFinal-Celi/parsableText.txt"
 echo "Average sentence length = '$((AVERAGE/COUNTER))'" 
 echo "Longest sentence length = '$LONGESTSENTENCE'"
 echo "Shortest sentence length = '$SHORTESTSENTENCE'"
